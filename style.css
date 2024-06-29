@@ -1,0 +1,22 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+.Tabbuttons {
+  color: red;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: xx-large;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+* {
+  background-color: aqua;
+}
